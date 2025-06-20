@@ -32,3 +32,6 @@ __Melhoria 1__, _melhoria 2_
 
 ![Escudo do Vascão](img/CRVascodaGama.png)
 
+#### Imagem externa
+
+https://freebiesupply.com/logos/vasco-futebol-clube-de-sapiranga-rs-logo/
