@@ -30,6 +30,5 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem local
 
-![Escudo do Vascão][def]
+![Escudo do Vascão](img/CRVascodaGama.png)
 
-[def]: img/CRVascodaGama.png
