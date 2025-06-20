@@ -1,4 +1,10 @@
-# ecommerce_empresa_x
+# E-commerce_empresa_x
 Este é um e-commerce para a empresa X, feito em PHP e MySQL
 
 ## Checkout, Tela de Produto, Catálogo, Home com Banner
+
+###### Melhorias do Projeto
+
+Melhoria 1, melhoria 2
+
+
