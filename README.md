@@ -34,4 +34,6 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem externa
 
-![Cruz de Malta](https://freebiesupply.com/logos/vasco-futebol-clube-de-sapiranga-rs-logo/)
+![Cruz de Malta][def]
+
+[def]: https://freebiesupply.com/logos/vasco-futebol-clube-de-sapiranga-rs-logo/
